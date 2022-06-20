@@ -5,3 +5,4 @@
 azure-functions
 boto3==1.9.180
 requests==2.22.0
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
